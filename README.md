@@ -7,5 +7,5 @@ The resulting webgl build needs to run on a https server, if you want to quickly
 
 ## Compression
 
-To be able to run the built game with the python script, the compression was disabled. When publishing the game you should probably enabled the compression (`Edit / Project Settings... / Player / Publishing Settings / Compression format')
+To be able to run the built game with the python script, the compression was disabled. When publishing the game you should probably enabled the compression (`Edit / Project Settings... / Player / Publishing Settings / Compression format`)
 
